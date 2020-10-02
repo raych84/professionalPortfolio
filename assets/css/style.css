@@ -1,0 +1,42 @@
+body {
+    font-family: "Open Sans Condensed";
+    font-size: 18pt;
+    background-color: tan;
+
+  }
+#my-name {
+  font-size: 36pt;
+  float: left;
+  font-weight: bold;
+}
+
+/* About Me */
+h1 {
+  margin-left: 25px;
+}
+#profile-image {
+   float: left;
+   margin: 25px;
+
+}
+
+#about {
+   margin-left: 35px;  
+    font-size: 24px;
+}
+
+
+
+footer {
+  position: fixed;
+  text-align: center;
+  padding-top: 10px;
+  width: 100%;
+  background-color: silver;
+  left: 0;
+  bottom: 0;
+  height: 60px;
+  font-size: 12pt;
+  
+}
+

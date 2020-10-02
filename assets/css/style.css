@@ -28,14 +28,14 @@ h1 {
 
 
 footer {
-  position: fixed;
+  position: static;
   text-align: center;
   padding-top: 10px;
   width: 100%;
   background-color: silver;
   left: 0;
   bottom: 0;
-  height: 60px;
+  height: 90px;
   font-size: 12pt;
   
 }

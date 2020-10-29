@@ -142,7 +142,7 @@
  .sec-main {
    position: relative;
    height: 560px;
-   background: url(/assets/images/IMG_0404.jpeg) no-repeat center center;
+   background: url("../images/abbeyroad.jpg") no-repeat center center;
    background-size: cover;
  
    &:after {
